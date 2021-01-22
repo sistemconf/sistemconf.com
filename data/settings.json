@@ -1,21 +1,21 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "SISTEM2021",
     "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "blog": "https://sistemconf.ie/",
+    "url": "http://sistemconf.ie/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "SISTEM",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "en-GB"
   },
-  "hashtag": "DevFest",
+  "hashtag": "SISTEM2021",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -37,11 +37,6 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
