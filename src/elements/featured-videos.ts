@@ -16,6 +16,7 @@ import './shared-styles';
 @customElement('featured-videos')
 export class FeaturedVideos extends ReduxMixin(PolymerElement) {
   static get template() {
+    return html`<div class="this-is-where-fetured-videos-would-be"></div>`
     return html`
       <style include="shared-styles flex flex-alignment positioning">
         :host {
