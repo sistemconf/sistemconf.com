@@ -15,6 +15,7 @@ import './shared-styles';
 @customElement('subscribe-block')
 export class SubscribeBlock extends ReduxMixin(PolymerElement) {
   static get template() {
+    return html`<div class="here-is-where-subscribe-block-would-be"></div>`
     return html`
       <style include="shared-styles flex flex-alignment">
         :host {
