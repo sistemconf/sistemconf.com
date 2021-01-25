@@ -13,6 +13,7 @@ import './shared-styles';
 @customElement('subscribe-form-footer')
 export class SubscribeFormFooter extends ReduxMixin(PolymerElement) {
   static get template() {
+    return html`<div class="here-is-where-subscribe-form-footer-would-be"></div>`
     return html`
       <style include="shared-styles flex flex-alignment positioning">
         :host {
