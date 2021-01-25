@@ -37,23 +37,13 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
-        {
-          "name": "GDG",
-          "url": "https://developers.google.com/groups/",
-          "newTab": true
-        },
-        {
-          "name": "DevFest",
-          "url": "https://devfest.withgoogle.com/",
+          "name": "SISTEM",
+          "url": "https://sistemconf.ie",
           "newTab": true
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://sistemconf.ie/team/",
           "newTab": true
         }
       ]
