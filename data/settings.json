@@ -143,24 +143,12 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/events/114576386662666/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://twitter.com/intent/tweet?text=#sistem2021"
       }
     ],
     "share": [
@@ -170,11 +158,11 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text="
+        "url": "https://twitter.com/intent/tweet?text=#sistem2021"
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "internet.society@ucd.ie",
   "signInProviders": {
     "providersData": [
       {
