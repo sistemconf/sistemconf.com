@@ -65,13 +65,13 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "SISTEM is the product of collaboration Of Ireland's Networking and Computer Societies. See here for more infomation about upcoming sessions, workshops and panels:",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "description": "Look at our highlights from previous years.",
+        "label": "See how it was in 2020",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
