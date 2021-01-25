@@ -41,9 +41,9 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "A tech conference by students, for students",
       "background": {
-        "color": "#673ab7",
+        "color": "#FF6DAF",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
