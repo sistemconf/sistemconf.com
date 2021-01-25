@@ -108,20 +108,21 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Event Online",
+    "city": "Ireland",
+    "short": "Ireland",
+    "address": "Event Onilne, Organised in Ireland",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 53.000000,
+      "longitude": -7.500000,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "SISTEM 2021 will be hosted ONLINE",
+    "link": ""
   },
   "mediaQueries": {
     "xs": {
