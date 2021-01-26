@@ -4,27 +4,27 @@ SISTEM is dedicated to providing a harassment-free conference experience for eve
 
 ### Conduct 
 
-1. We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
+We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 
-2. Please avoid using overtly sexual aliases or other nicknames that might detract from a friendly, safe and welcoming environment for all.
+Please avoid using overtly sexual aliases or other nicknames that might detract from a friendly, safe and welcoming environment for all.
 
-3. Please be kind and courteous. There’s no need to be mean or rude.
+Please be kind and courteous. There’s no need to be mean or rude.
 
-4. Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. Please keep unstructured critique to a minimum. 
+Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. Please keep unstructured critique to a minimum. 
 
-5. We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. Private harassment is also unacceptable. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups. We interpret the term “harassment” as but not limited to: 
+We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. Private harassment is also unacceptable. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups. We interpret the term “harassment” as but not limited to: 
 
-    - Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion
-    - Sexual images in public spaces
-    - Deliberate intimidation, stalking, or following
-    - Harassing photography or recording
-    - Sustained disruption of talks or other events
-    - Inappropriate physical contact
-    - Invasion of personal space
-    - Unwelcome sexual attention
-    - Advocating for, or encouraging, any of the above behaviour
+- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion
+-   Sexual images in public spaces
+- Deliberate intimidation, stalking, or following
+- Harassing photography or recording
+- Sustained disruption of talks or other events
+- Inappropriate physical contact
+- Invasion of personal space
+- Unwelcome sexual attention
+- Advocating for, or encouraging, any of the above behaviour
 
-6. Any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
+Any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
 
 ### Enforcement 
