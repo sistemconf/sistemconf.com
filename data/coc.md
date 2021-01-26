@@ -53,6 +53,6 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 ### Attribution
 
-This code of conduct was based on that of Rust Community (https://www.rust-lang.org/policies/code-of-conduct) and JSConf EU (https://2019.jsconf.eu/code-of-conduct/). 
+This code of conduct was based on that of [Rust Community](https://www.rust-lang.org/policies/code-of-conduct) and [JSConf EU](https://2019.jsconf.eu/code-of-conduct/). 
 
 We are supporters of continual learning on inclusivity, therefore if you feel we have missed anything in our Code of Conduct that would be of benefit to our attendees please contact  [sistemconf@gmail.com](mailto:sistemconf@gmail.com)
