@@ -148,7 +148,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <div class="home-content" layout vertical center>
           <plastic-image
             class="hero-logo"
-            srcset="/images/logo.svg"
+            srcset="/images/logo.png"
             alt="{$ title $}"
           ></plastic-image>
           <div class="info-items">
@@ -157,17 +157,6 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           </div>
 
           <div class="action-buttons" layout horizontal center-justified wrap>
-            <paper-button
-              class="watch-video"
-              on-click="_playVideo"
-              ga-on="click"
-              ga-event-category="video"
-              ga-event-action="watch"
-              ga-event-label="hero block - view highlights"
-            >
-              <iron-icon icon="hoverboard:movie"></iron-icon>
-              {$ viewHighlights $}
-            </paper-button>
             <paper-button
               on-click="_scrollToTickets"
               ga-on="click"
