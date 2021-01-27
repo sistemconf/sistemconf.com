@@ -1653,197 +1653,213 @@
     {
       "members": [
         {
-          "name": "Oleh Zasadnyy",
-          "photo": "/images/people/oleh_zasadnyy.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+          "name": "TU Dublin Computer Science Society",
+          "photo": "/images/team/tudublin.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Ftudublin.png?alt=media&token=5edfce23-222f-4ff2-9401-07c8a9eab7a8",
           "socials": [
             {
               "icon": "facebook",
-              "link": "https://www.facebook.com/oleh.zasadnyy",
+              "link": "https://www.facebook.com/TUCompSoc",
               "name": "Facebook"
             },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/ozasadnyy",
+              "link": "https://twitter.com/DITNetsoc",
               "name": "Twitter"
             },
             {
               "icon": "website",
-              "link": "http://o.zasadnyy.com/",
-              "name": "Blog"
+              "link": "https://netsoc.dit.ie",
+              "name": "Website"
             }
           ],
           "order": 0,
-          "title": "Website and sponsors"
+          "title": "Technological University Dublin"
         },
         {
-          "name": "Sofiya Huts",
-          "photo": "/images/people/sofiya_huts.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+          "name": "Redbrick DCU",
+          "photo": "/images/teams/dcu.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Fdcu.png?alt=media&token=2ec0f652-321e-4f52-a3fb-f5255f12be28",
           "socials": [
             {
               "icon": "facebook",
-              "link": "https://www.facebook.com/sophie.huts.7",
+              "link": "https://www.facebook.com/dcuredbrick/",
               "name": "Facebook"
-            }
-          ],
-          "order": 1,
-          "title": "Social and media"
-        },
-        {
-          "name": "Vitaliy Zasadnyy",
-          "photo": "/images/people/vitaliy_zasadnyy.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/zasadnyy",
-              "name": "Linkedin"
             },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/zasadnyy",
+              "link": "https://twitter.com/RedbrickDCU",
               "name": "Twitter"
             },
             {
               "icon": "website",
-              "link": "http://v.zasadnyy.com/",
-              "name": "Blog"
-            }
-          ],
-          "order": 2,
-          "title": "Speakers"
-        },
-        {
-          "name": "Marta Maxymiak",
-          "photo": "/images/people/marta_maxymiak.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/marta.maxymiak",
-              "name": "Facebook"
-            }
-          ],
-          "order": 3,
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Ostap Andrusiv",
-          "photo": "/images/people/ostap_andrusiv.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/ostap.andrusiv",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/p1f",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://andrusiv.com/",
-              "name": "Blog"
-            }
-          ],
-          "order": 4,
-          "title": "Sponsors"
-        },
-        {
-          "name": "Vasylyna Mytsak",
-          "photo": "/images/people/vasylyna_mytsak.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/vasylyna.mytsak",
-              "name": "Facebook"
-            }
-          ],
-          "order": 5,
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Volodya Karpliuk",
-          "photo": "/images/people/volodya_karpliuk.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/volodya.karpluk",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/keyv23",
-              "name": "Twitter"
-            }
-          ],
-          "order": 6,
-          "title": "Speakers"
-        },
-        {
-          "name": "Diana Pinchuk",
-          "photo": "/images/people/diana_pinchuk.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/diana.pinchuk.9",
-              "name": "Facebook"
-            }
-          ],
-          "order": 7,
-          "title": "Social and media"
-        }
-      ],
-      "title": "Core Team"
-    },
-    {
-      "members": [
-        {
-          "name": "Ihor Dvoretskyi",
-          "photo": "/images/people/ihor_dvoretskyi.jpg",
-          "photoUrl": "",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/idvoretskyi",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/idvoretskyi",
-              "name": "Twitter"
-            }
-          ],
-          "order": 0,
-          "title": "Cloud stream"
-        },
-        {
-          "name": "Dmytro Danylyk",
-          "photo": "/images/people/dmytro_danylyk.jpg",
-          "photoUrl": "",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dmytrodanylyk",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://www.dmytrodanylyk.com/#/about",
+              "link": "https://redbrick.dcu.ie/",
               "name": "Website"
             }
           ],
           "order": 1,
-          "title": "Android Stream"
+          "title": "Dublin City University"
+        },
+        {
+          "name": "UCD NetSoc",
+          "photo": "/images/team/ucd.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Fucd.png?alt=media&token=69603db3-08bf-449f-becc-0b4735d67e6d",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/ucdnetsoc",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ucdnetsoc",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://netsoc.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 2,
+          "title": "University College Dublin"
+        },
+        {
+          "name": "Trinity DUCSS",
+          "photo": "/images/team/ducss.png",
+          "photoUrl": "",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/ducss.ie/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ducss",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://ducss.ie/",
+              "name": "Website"
+            }
+          ],
+          "order": 3,
+          "title": "Trinity College"
+        },
+        {
+          "name": "Maynooth Computer Society",
+          "photo": "/images/team/maynooth.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Fmaynooth.png?alt=media&token=8060c0ca-e04d-472d-8c7c-4f5423aee64c",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/MUCSSoc/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "website",
+              "link": "https://mucss.ie/",
+              "name": "Website"
+            }
+          ],
+          "order": 4,
+          "title": "Maynooth University"
+        },
+        {
+          "name": "UCC Netsoc",
+          "photo": "/images/team/ucc.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Fucc.png?alt=media&token=de442e16-8776-420b-ae56-ee755f235a03",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/NetsocUCC/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/UCCNetsoc",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://netsoc.co/rk/",
+              "name": "Website"
+            }
+          ],
+          "order": 5,
+          "title": "University College Cork"
+        },
+        {
+          "name": "Queen's Computing Society",
+          "photo": "/images/team/queens.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Fqueens.png?alt=media&token=9e3c03a6-3865-4c73-bf45-0279c73fe91a",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/QCSQUB/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/qcsqub?lang=en",
+              "name": "Twitter"
+            }
+          ],
+          "order": 6,
+          "title": "Queens University Belfast"
+        },
+        {
+          "name": "Trinity NetSoc",
+          "photo": "/images/team/netsoctcd.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Fnetsoctcd.png?alt=media&token=c1904916-f46a-42d3-97ff-f1fbbd6da3dc",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/dunetsoc",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/netsoc",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://www.netsoc.tcd.ie",
+              "name": "Website"
+            }
+          ],
+          "order": 7,
+          "title": "Trinity College"
+        },
+        {
+          "name": "NUIG Computer Society",
+          "photo": "/images/team/nuig.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2021.appspot.com/o/images%2Fteam%2Fnuig.jpg?alt=media&token=8974833c-acbf-463c-bcc5-d5eefba3006e",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/nuigcompsoc",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/nuigcompsoc",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://compsoc.ie/",
+              "name": "Website"
+            }
+          ],
+          "order": 8,
+          "title": "NUI Galway"
         }
       ],
-      "title": "Program Committee"
+      "title": "The Team of Societies"
     }
   ],
   "tickets": [
