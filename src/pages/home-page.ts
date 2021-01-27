@@ -185,7 +185,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               <path
                 class="stroke"
                 fill="none"
-                stroke="#c7c4b8"
+                stroke="#FF6DAF"
                 stroke-width="2.5"
                 stroke-miterlimit="10"
                 d="M12.5833445
@@ -213,7 +213,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               ></path>
               <path
                 class="scroller"
-                fill="#c7c4b8"
+                fill="#FF6DAF"
                 d="M13.0833359
                 19.2157116h-0.9192753c-1.0999985
                 0-1.9999971-0.8999996-1.9999971-1.9999981v-5.428606c0-1.0999994
@@ -242,12 +242,10 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <speakers-block></speakers-block>
       <subscribe-block></subscribe-block>
       <tickets-block></tickets-block>
+      <partners-block></partners-block>
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
-      <featured-videos></featured-videos>
-      <latest-posts-block></latest-posts-block>
       <map-block></map-block>
-      <partners-block></partners-block>
       <footer-block></footer-block>
     `;
   }

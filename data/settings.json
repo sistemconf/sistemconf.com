@@ -10,7 +10,7 @@
   "webapp": {
     "shortName": "SISTEM",
     "themeColor": "#FF6DAF",
-    "backgroundColor": "#FFB500"
+    "backgroundColor": "#FF6DAF"
   },
   "dateFormat": {
     "locale": "en-GB"
@@ -121,7 +121,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "SISTEM 2021 will be hosted ONLINE",
+    "description": "SISTEM 2021 will be online on the Hopin Platform ",
     "link": ""
   },
   "mediaQueries": {
