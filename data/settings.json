@@ -16,7 +16,7 @@
     "locale": "en-GB"
   },
   "hashtag": "SISTEM2021",
-  "disabledSchedule": true,
+  "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
@@ -30,8 +30,8 @@
     },
     {
       "route": "schedule",
-      "permalink": "#",
-      "label": "Schedule (Coming soon)"
+      "permalink": "/schedule/",
+      "label": "Schedule"
     },
     {
       "route": "team",
