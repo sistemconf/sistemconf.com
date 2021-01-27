@@ -193,7 +193,7 @@ export class HoverboardApp extends ReduxMixin(PolymerElement) {
           <app-toolbar layout vertical start>
             <plastic-image
               class="toolbar-logo"
-              srcset="/images/square_logo.png"
+              srcset="/images/logo.png"
               alt="{$ title $}"
             ></plastic-image>
             <h2 class="dates">{$ dates $}</h2>
