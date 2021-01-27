@@ -1,7 +1,7 @@
 {
   "title": "SISTEM 2021",
   "description": "Join the community, learn new things!",
-  "image": "images/social-share.jpg",
+  "image": "images/LogoDonut.jpg",
   "keywords": "event, sistem, netsoc, devfest,programming, android, chrome, polymer, developers, web, cloud, society",
   "dates": "20th February 2021",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
@@ -65,7 +65,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "SISTEM is the product of collaboration Of Ireland's Networking and Computer Societies. See here for more infomation about upcoming sessions, workshops and panels:",
+        "description": "SISTEM is Ireland's largest tech conference for students, with the mission to inspire the next generation of tech. SISTEM 2021 will take place online. This is our fourth year organising this conference and the event has grown in scale and ambition since our first edition in 2018. Over 200 of Ireland's most engaged students in computing are expected to attend this event.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
@@ -81,12 +81,12 @@
         "number": "250"
       },
       "days": {
-        "label": "Days",
+        "label": "Day",
         "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "20"
+        "number": "23"
       },
       "tracks": {
         "label": "Tracks",
@@ -96,16 +96,16 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Both tickets give access to all conference content and sessions. Premium tickets are limited and sold on a first come basis",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "Sponsors",
+    "button": "Become a sponsor",
     "form": {
-      "title": "Become a partner!",
+      "title": "Become a sponsor!",
       "submitLabel": "Submit",
       "fullName": "Full Name",
       "companyName": "Company Name"
@@ -154,7 +154,7 @@
     "description": "See the Highlights of Last years Conference",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/UPDATE-TODO"
+      "link": "https://photos.app.goo.gl/1G8zURnPoVXqHyK46"
     }
   },
   "mapBlock": {
@@ -178,7 +178,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Irish Networking and Computer Societies have been around since the 90's, providing Students with the tools and skills they need to succeed in Industry. SISTEM is a collaboration of 9 Societies from around Ireland. "
+    "description": "Irish Networking and Computer Societies have been around since the 90's, providing Students with the tools and skills they need to succeed in Industry. SISTEM is a collaboration of 10 Societies from around Ireland. "
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -221,7 +221,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/team_back.jpg",
     "blocks": [
       {
         "title": "Organizer",

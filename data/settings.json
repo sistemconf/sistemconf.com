@@ -10,13 +10,13 @@
   "webapp": {
     "shortName": "SISTEM",
     "themeColor": "#FF6DAF",
-    "backgroundColor": "#FFB500"
+    "backgroundColor": "#FF6DAF"
   },
   "dateFormat": {
     "locale": "en-GB"
   },
   "hashtag": "SISTEM2021",
-  "disabledSchedule": false,
+  "disabledSchedule": true,
   "navigation": [
     {
       "route": "home",
@@ -30,8 +30,8 @@
     },
     {
       "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
+      "permalink": "#",
+      "label": "Schedule (Coming soon)"
     },
     {
       "route": "team",
@@ -58,8 +58,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Hear from our speakers and sponsors who are helping build the Technology Industry both in Ireland and Worldwide.",
+      "description": "Hear from our speakers and sponsors who are helping build the Technology Industry both in Ireland and Worldwide.",
       "background": {
         "color": "#FFF"
       },
@@ -121,7 +121,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "SISTEM 2021 will be hosted ONLINE",
+    "description": "SISTEM 2021 will be online on the Hopin Platform ",
     "link": ""
   },
   "mediaQueries": {

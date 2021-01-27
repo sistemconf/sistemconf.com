@@ -57,7 +57,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           height: 32px;
           background-color: var(--default-primary-color);
           transition: background-color var(--animation);
-          -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
+          -webkit-mask: url('/images/logo.png') no-repeat;
         }
 
         .nav-items {
