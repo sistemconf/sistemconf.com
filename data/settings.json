@@ -44,7 +44,7 @@
       "description": "A tech conference by students, for students",
       "background": {
         "color": "#FF6DAF",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/backgrounds/home_min.jpg"
       },
       "fontColor": "#FFF"
     },
