@@ -35,7 +35,7 @@ export class SpeakersPage extends SpeakersHoC(ReduxMixin(PolymerElement)) {
           display: grid;
           grid-template-columns: 1fr;
           grid-gap: 16px;
-          min-height: 80%;
+          min-height: 60%;
         }
 
         .speaker {
