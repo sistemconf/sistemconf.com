@@ -71,7 +71,7 @@ export class MdContent extends PolymerElement {
           [slot='markdown-html'] h2 {
             font-size: 40px;
             width: 40%;
-            margin-bottom: 0;
+            margin-bottom: 25px;
             display: inline-block;
             transform: translateY(85%);
             vertical-align: bottom;
