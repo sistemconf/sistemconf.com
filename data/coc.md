@@ -1,8 +1,8 @@
-### Purpose 
+## Purpose 
 
 SISTEM is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or lack thereof. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
 
-### Conduct 
+## Conduct 
 
 We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 
@@ -27,7 +27,7 @@ We will exclude you from interaction if you insult, demean or harass anyone. Tha
 Any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
 
-### Enforcement 
+## Enforcement 
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -38,7 +38,7 @@ Event organisers may take action to address anything designed to, or with the cl
 Our enforcement policies apply to all official SISTEM venues; including Hopin, Discord, Github repositories, Social Media platforms (included but not limited to Facebook, Twitter, Instagram and LinkedIn) and all forums under sistemconf.com.
 
 
-### Reporting 
+## Reporting 
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Conference staff can be identified by t-shirts at our in person events and with Organiser titles at online events. Harassment and other Code of Conduct violations reduce the value of our event for everyone. 
 
@@ -47,11 +47,11 @@ You can make a report personally by contacting the conference or an individual o
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
 
-### Contact information: 
+## Contact information: 
 
 - Email: [sistemconf@gmail.com](mailto:sistemconf@gmail.com)
 
-### Attribution
+## Attribution
 
 This code of conduct was based on that of [Rust Community](https://www.rust-lang.org/policies/code-of-conduct) and [JSConf EU](https://2019.jsconf.eu/code-of-conduct/). 
 
