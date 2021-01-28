@@ -111,7 +111,7 @@
     "name": "Event Online",
     "city": "Ireland",
     "short": "Ireland",
-    "address": "Event Onilne, Organised in Ireland",
+    "address": "Event Online, Organised in Ireland",
     "pointer": {
       "latitude": 53.000000,
       "longitude": -7.500000,
@@ -144,11 +144,19 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/events/114576386662666/"
+        "url": "https://www.facebook.com/sistemconf"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text=#sistem2021"
+        "url": "https://twitter.com/SISTEM_conf"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/sistemconf/"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sistem_conf/"
       }
     ],
     "share": [
@@ -162,7 +170,7 @@
       }
     ]
   },
-  "mailto": "internet.society@ucd.ie",
+  "mailto": "sistemconf@gmail.com",
   "signInProviders": {
     "providersData": [
       {
