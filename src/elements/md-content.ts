@@ -87,7 +87,7 @@ export class MdContent extends PolymerElement {
           [slot='markdown-html'] p,
           [slot='markdown-html'] ol,
           [slot='markdown-html'] ul {
-            margin-left: 40%;
+            margin-right: 40%;
           }
 
           [slot='markdown-html'] h3::after {
