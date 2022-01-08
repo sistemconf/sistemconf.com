@@ -169,7 +169,7 @@ export class HoverboardApp extends PolymerElement {
           <app-toolbar layout vertical start>
             <plastic-image
               class="toolbar-logo"
-              srcset="/images/logo-monochrome.svg"
+              srcset="/images/logo.png"
               alt="{$ title $}"
             ></plastic-image>
             <h2 class="dates">{$ dates $}</h2>

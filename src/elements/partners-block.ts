@@ -72,7 +72,7 @@ export class PartnersBlock extends ReduxMixin(PolymerElement) {
           <p>Loading...</p>
         </template>
         <template is="dom-if" if="[[failure]]">
-          <p>Error loading partners.</p>
+          <p>Error loading sponsors.</p>
         </template>
 
         <template is="dom-repeat" items="[[partners.data]]" as="block">
@@ -101,11 +101,6 @@ export class PartnersBlock extends ReduxMixin(PolymerElement) {
             </template>
           </div>
         </template>
-
-        <paper-button class="cta-button animated icon-right" on-click="_addPotentialPartner">
-          <span>{$ partnersBlock.button $}</span>
-          <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-        </paper-button>
       </div>
     `;
   }

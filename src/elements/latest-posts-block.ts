@@ -17,6 +17,7 @@ import './text-truncate';
 @customElement('latest-posts-block')
 export class LatestPostsBlock extends ReduxMixin(PolymerElement) {
   static get template() {
+    return html`<div class="here-is-where-latest-posts-block-would-be">`
     return html`
       <style include="shared-styles flex flex-alignment">
         :host {

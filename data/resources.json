@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "SISTEM 2021",
   "description": "Join the community, learn new things!",
-  "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "image": "images/LogoDonut.jpg",
+  "keywords": "event, sistem, netsoc, devfest,programming, android, chrome, polymer, developers, web, cloud, society",
+  "dates": "20th February 2021",
+  "partnershipProposition": "https://drive.google.com/file/d/1fqVXXXWcOpRFMeG13A7YIhz9h3QXpYm-/view?usp=sharing",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -12,7 +12,7 @@
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
+  "signIn": "",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
   "offlineMessage": "You can still work offline.",
@@ -24,7 +24,7 @@
   "time": "Time",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
-  "timezoneOffset": "-180",
+  "timezoneOffset": "0",
   "footer": {
     "blog": "Blog"
   },
@@ -37,23 +37,13 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
-        {
-          "name": "GDG",
-          "url": "https://developers.google.com/groups/",
-          "newTab": true
-        },
-        {
-          "name": "DevFest",
-          "url": "https://devfest.withgoogle.com/",
+          "name": "SISTEM",
+          "url": "https://sistemconf.ie",
           "newTab": true
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://sistemconf.com/team/",
           "newTab": true
         }
       ]
@@ -62,23 +52,13 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "SISTEM 2021",
+          "url": "https://2021.sistemconf.com",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.web.app/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.web.app/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.web.app/",
+          "name": "SISTEM 2020",
+          "url": "https://2020.sistemconf.com",
           "newTab": true
         }
       ]
@@ -88,7 +68,7 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://drive.google.com/file/d/1fqVXXXWcOpRFMeG13A7YIhz9h3QXpYm-/view?usp=sharing",
           "newTab": true
         },
         {
@@ -116,59 +96,51 @@
   ],
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
-  "codeOfConductBlock": {
-    "organization": "DevFest",
-    "form": "https://bit.ly/2RstTJ8",
-    "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
-    ]
-  },
   "aboutBlock": {
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "SISTEM is Ireland's largest tech conference for students, with the mission to inspire the next generation of tech. SISTEM 2021 will take place online. This is our fourth year organising this conference and the event has grown in scale and ambition since our first edition in 2018. Over 200 of Ireland's most engaged students in computing are expected to attend this event.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "description": "Look at our highlights from previous years.",
+        "label": "See how it was in 2020",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "250+"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Day",
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "23"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Both tickets give access to all conference content and sessions. Premium tickets are limited and sold on a first come basis",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "Sponsors",
+    "button": "Become a sponsor",
     "form": {
-      "title": "Become a partner!",
+      "title": "Become a sponsor!",
       "submitLabel": "Submit",
       "fullName": "Full Name",
       "companyName": "Company Name"
@@ -176,10 +148,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "SISTEM 2020 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": ""
     }
   },
   "blog": {
@@ -213,11 +185,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#SISTEM2020 highlights",
+    "description": "See the Highlights of Last years Conference",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/1G8zURnPoVXqHyK46"
     }
   },
   "mapBlock": {
@@ -242,7 +214,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Irish Networking and Computer Societies have been around since the 90's, providing Students with the tools and skills they need to succeed in Industry. SISTEM is a collaboration of 10 Societies from around Ireland. "
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -278,39 +250,21 @@
     "unsubscribe": "Unsubscribe",
     "enable": {
       "label": "Enable",
-      "link": "https://support.google.com/chrome/answer/3220216"
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
       "title": "Open"
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/team_back.jpg",
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "SISTEM is the product of collaboration Of Ireland's Networking and Computer Societies. See our Team page for all the participating societies.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
-        }
-      },
-      {
-        "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
-        "callToAction": {
-          "label": "Read more",
-          "link": "https://developers.google.com/groups/",
-          "newTab": true
-        }
-      },
-      {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
-        "callToAction": {
-          "label": "Read more",
-          "link": "https://devfest.withgoogle.com/",
-          "newTab": true
         }
       }
     ]
