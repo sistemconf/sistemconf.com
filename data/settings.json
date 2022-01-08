@@ -1,21 +1,21 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "SISTEM2021",
+    "twitter": "sistem",
+    "blog": "https://sistemconf.ie/",
+    "url": "http://sistemconf.ie/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2021-02-20T09:00:00",
+  "endDate": "2021-02-20T19:00:00",
   "webapp": {
-    "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "shortName": "SISTEM",
+    "themeColor": "#FF6DAF",
+    "backgroundColor": "#FF6DAF"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "en-GB"
   },
-  "hashtag": "DevFest",
+  "hashtag": "SISTEM2021",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -39,17 +39,17 @@
       "label": "Team"
     },
     {
-      "route": "blog",
-      "permalink": "/blog",
-      "label": "Blog"
+      "route": "coc",
+      "permalink": "/coc/",
+      "label": "Code of Conduct"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "A tech conference by students, for students",
       "background": {
-        "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "color": "#FF6DAF",
+        "image": "/images/backgrounds/home_min.jpg"
       },
       "fontColor": "#FFF"
     },
@@ -63,8 +63,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Hear from our speakers and sponsors who are helping build the Technology Industry both in Ireland and Worldwide.",
+      "description": "Hear from our speakers and sponsors who are helping build the Technology Industry both in Ireland and Worldwide.",
       "background": {
         "color": "#FFF"
       },
@@ -121,20 +121,21 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Event Online",
+    "city": "Ireland",
+    "short": "Ireland",
+    "address": "Event Online, Organised in Ireland",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 53.000000,
+      "longitude": -7.500000,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "SISTEM 2021 will be online on the Hopin Platform ",
+    "link": ""
   },
   "mediaQueries": {
     "xs": {
@@ -155,24 +156,20 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/sistemconf"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/SISTEM_conf"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/sistemconf/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.instagram.com/sistem_conf/"
       }
     ],
     "share": [
@@ -182,11 +179,11 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text="
+        "url": "https://twitter.com/intent/tweet?text=#sistem2021"
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "sistemconf@gmail.com",
   "signInProviders": {
     "providersData": [
       {

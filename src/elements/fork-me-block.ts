@@ -8,6 +8,7 @@ import './shared-styles';
 @customElement('fork-me-block')
 export class ForkMeBlock extends PolymerElement {
   static get template() {
+    return html`<div class="here-is-where-fork-me-block-would-be"></div>`
     return html`
       <style include="shared-styles flex flex-alignment">
         :host {

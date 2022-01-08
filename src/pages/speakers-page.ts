@@ -34,7 +34,7 @@ export class SpeakersPage extends SpeakersMixin(ReduxMixin(PolymerElement)) {
           display: grid;
           grid-template-columns: 1fr;
           grid-gap: 16px;
-          min-height: 80%;
+          min-height: 60%;
         }
 
         .speaker {
@@ -245,6 +245,7 @@ export class SpeakersPage extends SpeakersMixin(ReduxMixin(PolymerElement)) {
             <div class="description">
               <h2 class="name">[[speaker.name]]</h2>
               <div class="origin">[[speaker.country]]</div>
+              <div class="origin pronouns">[[speaker.pronouns]]</div>
 
               <text-truncate lines="5">
                 <div class="bio">[[speaker.bio]]</div>
@@ -264,8 +265,6 @@ export class SpeakersPage extends SpeakersMixin(ReduxMixin(PolymerElement)) {
           </a>
         </template>
       </div>
-
-      <previous-speakers-block></previous-speakers-block>
 
       <footer-block></footer-block>
     `;

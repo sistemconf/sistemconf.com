@@ -91,7 +91,7 @@ export class MapBlock extends ReduxMixin(PolymerElement) {
           <div class="bottom-info" layout horizontal justified center>
             <span class="address">{$ location.address $}</span>
             <a
-              href="https://www.google.com/maps/dir/?api=1&amp;destination={$ location.address $}"
+              href="{$ location.mapsLink $}"
               target="_blank"
               rel="noopener noreferrer"
             >
