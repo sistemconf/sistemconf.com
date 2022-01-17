@@ -44,6 +44,7 @@ async function uploadFile(fileName: string, dirName: string) {
   // Upload the file
   const uri = '../../images/' + dirName + fileName;
   await storage.bucket().upload(uri, { destination: 'images/' + dirName + fileName });
+  await storage.bucket().file('images/' + dirName + fileName).makePublic();
 }
 
 async function addImageLinkToJSON(fileName: string, dirName: string) {
@@ -62,3 +63,5 @@ async function addImageLinkToJSON(fileName: string, dirName: string) {
       break;
   }
 }
+
+importImages();
