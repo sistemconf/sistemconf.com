@@ -63,5 +63,3 @@ async function addImageLinkToJSON(fileName: string, dirName: string) {
       break;
   }
 }
-
-importImages();
