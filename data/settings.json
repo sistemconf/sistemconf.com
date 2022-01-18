@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "SISTEM2021",
+    "name": "SISTEM2022",
     "twitter": "sistem",
     "blog": "https://sistemconf.ie/",
     "url": "http://sistemconf.ie/"
   },
-  "startDate": "2021-02-20T09:00:00",
-  "endDate": "2021-02-20T19:00:00",
+  "startDate": "2022-02-26T09:00:00",
+  "endDate": "2022-02-26T19:00:00",
   "webapp": {
     "shortName": "SISTEM",
     "themeColor": "#FF6DAF",
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-GB"
   },
-  "hashtag": "SISTEM2021",
+  "hashtag": "SISTEM2022",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -134,7 +134,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "SISTEM 2021 will be online on the Hopin Platform ",
+    "description": "SISTEM 2022 will be hosted online on the Hopin Platform as well as in-person on the UCD campus.",
     "link": ""
   },
   "mediaQueries": {
@@ -179,30 +179,12 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text=#sistem2021"
+        "url": "https://twitter.com/intent/tweet?text=#sistem2022"
       }
     ]
   },
   "mailto": "sistemconf@gmail.com",
-  "signInProviders": {
-    "providersData": [
-      {
-        "name": "google",
-        "label": "Sign in with Google",
-        "url": "https://accounts.google.com"
-      },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
-      }
-    ],
-    "allowedProvidersUrl": [
-      "https://accounts.google.com",
-      "https://www.facebook.com",
-      "https://twitter.com"
-    ]
-  },
+  "signInProviders": { },
   "contentLoaders": {
     "schedule": {
       "itemsCount": 2
