@@ -121,18 +121,18 @@
   },
   "location": {
     "label": "Location",
-    "name": "Event Online",
-    "city": "Ireland",
-    "short": "Ireland",
-    "address": "Event Online, Organised in Ireland",
+    "name": "University College Dublin",
+    "city": "Dublin, Ireland",
+    "short": "University College Dublin, Dublin",
+    "address": "University College Dublin, Belfield, Dublin 4, Ireland",
     "pointer": {
-      "latitude": 53.000000,
-      "longitude": -7.500000,
-      "zoom": 5
+      "latitude": 53.3062609,
+      "longitude": -6.2299288,
+      "zoom": 12
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 53.3408241,
+      "longitude": -6.2565795
     },
     "description": "SISTEM 2022 will be hosted online on the Hopin Platform as well as in-person on the UCD campus.",
     "link": ""
