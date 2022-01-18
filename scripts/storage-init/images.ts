@@ -1,4 +1,3 @@
-//import { ref, uploadString, getDownloadURL } from 'firebase-admin/storage';
 import { storage } from '../firebase-config';
 import serviceAccount from '../../serviceAccount.json';
 import doc from '../../docs/default-firebase-data.json';
@@ -25,7 +24,7 @@ export const importImages = async () => {
       await uploadFile(files[x].name, dirNameFormatted);
       await addImageLinkToJSON(files[x].name, directories[i]);
       if (Object.is(directories.length - 1, i) && Object.is(files.length - 1, x)) {
-        fs.writeFile('../../docs/default-firebase-data.json', JSON.stringify(doc, null, 1), null, function() {
+        fs.writeFile('../../docs/default-firebase-data.json', JSON.stringify(doc, null, 4), null, function() {
           console.log("docs/default-firebase-data.json writen to with new image links");
         });
       }
