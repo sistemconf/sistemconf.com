@@ -1,16 +1,7 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.web.app/",
-  "analytics": "UA-43643469-9",
+  "url": "https://dev.sistemconf.com",
+  "analytics": "",
   "prefix": "/",
-  "firebase": {
-    "apiKey": "AIzaSyB8SfPndFpP-BE_RXJMWTr58vYYnxut-J8",
-    "authDomain": "sistem-2021.firebaseapp.com",
-    "projectId": "sistem-2021",
-    "storageBucket": "sistem-2021.appspot.com",
-    "messagingSenderId": "86894613434",
-    "appId": "1:86894613434:web:906f0e172bded25f8f4383",
-    "measurementId": "G-J0R80DW9DY"
-  },
-  "googleMapApiKey": "AIzaSyCJqlRVGIe6bfU43rga3cnK7tSXXwc7JD8"
+  "googleMapApiKey": "AIzaSyDZz-0Q9MwaU1FuqC3BzU8YVz9uGkCPwIA"
 }

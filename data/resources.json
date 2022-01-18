@@ -1,9 +1,9 @@
 {
-  "title": "SISTEM 2021",
+  "title": "SISTEM 2022",
   "description": "Join the community, learn new things!",
   "image": "images/LogoDonut.jpg",
   "keywords": "event, sistem, netsoc, devfest,programming, android, chrome, polymer, developers, web, cloud, society",
-  "dates": "20th February 2021",
+  "dates": "26th February 2022",
   "partnershipProposition": "https://drive.google.com/file/d/1fqVXXXWcOpRFMeG13A7YIhz9h3QXpYm-/view?usp=sharing",
   "share": "Share",
   "followOur": "Follow our",
@@ -106,7 +106,7 @@
       },
       "howItWas": {
         "description": "Look at our highlights from previous years.",
-        "label": "See how it was in 2020",
+        "label": "See how it was in 2021",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
@@ -131,7 +131,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Both tickets give access to all conference content and sessions. Premium tickets are limited and sold on a first come basis",
+    "ticketsDetails": "All tickets give access to all conference content and sessions. In-person tickets are limited and sold on a first come basis",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -148,7 +148,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "SISTEM 2020 featured videos",
+    "title": "SISTEM 2021 featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": ""
@@ -185,7 +185,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#SISTEM2020 highlights",
+    "title": "#SISTEM2021 highlights",
     "description": "See the Highlights of Last years Conference",
     "callToAction": {
       "label": "See all photos",
