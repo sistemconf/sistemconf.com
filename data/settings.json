@@ -135,7 +135,7 @@
       "longitude": -6.2565795
     },
     "description": "SISTEM 2022 will be hosted online on the Hopin Platform as well as in-person on the UCD campus.",
-    "link": ""
+    "link": "https://goo.gl/maps/TsDDQKUhoAXJ68yf9"
   },
   "mediaQueries": {
     "xs": {
@@ -199,7 +199,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 3
     }
   },
   "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
