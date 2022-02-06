@@ -90,14 +90,9 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "SISTEM is Ireland's largest tech conference for students, with the mission to inspire the next generation of tech. SISTEM 2022 will take place online. This is our fourth year organising this conference and the event has grown in scale and ambition since our first edition in 2018. Over 200 of Ireland's most engaged students in computing are expected to attend this event.",
+        "description": "SISTEM is Ireland's largest tech conference for students, with the mission to inspire the next generation of tech. SISTEM 2022 will be hosted online on the Hopin Platform as well as in-person on the UCD campus. This is our fifth year organising this conference and the event has grown in scale and ambition since our first edition in 2018. Over 200 of Ireland's most engaged students in computing are expected to attend this event.",
         "label": "Explore featured session",
         "link": ""
-      },
-      "howItWas": {
-        "description": "Look at our highlights from previous years.",
-        "label": "See how it was in 2021",
-        "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
@@ -194,7 +189,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about SISTEM sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "fieldRequired": "Field required.",
     "subscribe": "Subscribe",
