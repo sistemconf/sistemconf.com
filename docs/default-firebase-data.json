@@ -169,24 +169,7 @@
             "language": "English"
         }
     },
-    "speakers": {
-        "evan_smith": {
-            "bio": "Evan Smith is an SRE Manager for the Release Engineering team at Squarespace, and is responsible for the development and deployment experience of hundreds of engineers every day. He believes strongly in a human-centric approach to management and kind engineering.",
-            "company": "Squarespace",
-            "companyLogo": "/images/companies/squarespace.jpg",
-            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2022.appspot.com/o/images%2Fcompanies%2Fsquarespace.jpg",
-            "country": "Cork, Ireland",
-            "featured": true,
-            "name": "Evan Smith",
-            "photo": "/images/people/evan_smith.jpeg",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2022.appspot.com/o/images%2Fpeople%2Fevan_smith.jpeg?alt=media",
-            "pronouns": "he/him",
-            "shortBio": "Evan Smith is an SRE Manager for the Release Engineering team at Squarespace, and is responsible...",
-            "socials": [],
-            "order": 0,
-            "title": "SRE Manager"
-        }
-    },
+    "speakers": { },
     "team": [
         {
             "members": [
