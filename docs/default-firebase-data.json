@@ -347,6 +347,30 @@
                     ],
                     "order": 6,
                     "title": "Ulster University"
+                },
+                {
+                    "name": "Networking Society UCC",
+                    "photo": "/images/team/ucc.png",
+                    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2022.appspot.com/o/images%2Fteam%2Fucc.png?alt=media",
+                    "socials": [
+                        {
+                            "icon": "facebook",
+                            "link": "https://www.facebook.com/NetsocUCC",
+                            "name": "Facebook"
+                        },
+                        {
+                            "icon": "twitter",
+                            "link": "https://twitter.com/UCCNetsoc",
+                            "name": "Twitter"
+                        },
+                        {
+                            "icon": "website",
+                            "link": "https://netsoc.co",
+                            "name": "Website"
+                        }
+                    ],
+                    "order": 7,
+                    "title": "University College Cork"
                 }
             ],
             "title": "The Team of Societies"
