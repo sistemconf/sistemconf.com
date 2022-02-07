@@ -263,30 +263,6 @@
                     "title": "University College Dublin"
                 },
                 {
-                    "name": "Trinity DUCSS",
-                    "photo": "/images/team/ducss.png",
-                    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2022.appspot.com/o/images%2Fteam%2Fducss.png?alt=media",
-                    "socials": [
-                        {
-                            "icon": "facebook",
-                            "link": "https://www.facebook.com/ducss.ie/",
-                            "name": "Facebook"
-                        },
-                        {
-                            "icon": "twitter",
-                            "link": "https://twitter.com/ducss",
-                            "name": "Twitter"
-                        },
-                        {
-                            "icon": "website",
-                            "link": "https://ducss.ie/",
-                            "name": "Website"
-                        }
-                    ],
-                    "order": 3,
-                    "title": "Trinity College"
-                },
-                {
                     "name": "Queen's Computing Society",
                     "photo": "/images/team/qcs.png",
                     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2022.appspot.com/o/images%2Fteam%2Fqcs.png?alt=media",
@@ -302,7 +278,7 @@
                             "name": "Twitter"
                         }
                     ],
-                    "order": 4,
+                    "order": 3,
                     "title": "Queens University Belfast"
                 },
                 {
@@ -326,7 +302,7 @@
                             "name": "Website"
                         }
                     ],
-                    "order": 5,
+                    "order": 4,
                     "title": "Trinity College"
                 },
                 {
@@ -345,7 +321,7 @@
                             "name": "Twitter"
                         }
                     ],
-                    "order": 6,
+                    "order": 5,
                     "title": "Ulster University"
                 },
                 {
@@ -369,7 +345,7 @@
                             "name": "Website"
                         }
                     ],
-                    "order": 7,
+                    "order": 6,
                     "title": "University College Cork"
                 }
             ],
