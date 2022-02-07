@@ -337,40 +337,40 @@
     ],
     "tickets": [
         {
-            "available": true,
+            "available": false,
             "currency": "€",
             "ends": "Feb 26",
             "name": "Online Standard",
             "info": "Online Standard ticket",
             "price": 5,
             "soldOut": false,
-            "starts": "Jan 1",
+            "starts": "Feb 9",
             "url": "https://hopin.com/events/sistem-2022",
             "order": "0"
         },
         {
-            "available": true,
+            "available": false,
             "currency": "€",
             "ends": "Feb 26",
             "name": "In-Person Standard",
             "info": "In-Person Standard ticket",
             "price": 10,
             "soldOut": false,
-            "starts": "Jan 1",
+            "starts": "Feb 9",
             "url": "https://hopin.com/events/sistem-2022",
-            "order": "0"
+            "order": "1"
         },
         {
-            "available": true,
+            "available": false,
             "currency": "€",
             "ends": "Feb 26",
             "name": "In-Person Premium",
             "info": "In-Person Premium ticket",
             "price": 20,
             "soldOut": false,
-            "starts": "Jan 1",
+            "starts": "Feb 9",
             "url": "https://hopin.com/events/sistem-2022",
-            "order": "1"
+            "order": "2"
         }
     ],
     "triggers": {
