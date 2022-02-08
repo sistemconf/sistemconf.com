@@ -178,7 +178,7 @@ export class TicketsBlock extends ReduxMixin(PolymerElement) {
                   <div class="discount">[[_getDiscount(ticket)]]</div>
                 </div>
                 <div class="type-description" layout vertical flex-auto center-justified>
-                  <div class="ticket-dates" hidden$="[[!ticket.starts]]">
+                  <div style="display: none" class="ticket-dates" hidden$="[[!ticket.starts]]">
                     [[ticket.starts]] - [[ticket.ends]]
                   </div>
                   <div class="ticket-info">[[ticket.info]]</div>

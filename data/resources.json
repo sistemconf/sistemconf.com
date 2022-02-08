@@ -251,6 +251,14 @@
           "label": "Open team page",
           "link": "/team"
         }
+      },
+      {
+        "title": "Venue Host Sponsor",
+        "description": "A big thanks to the UCD School of Computer Science for their help in facilitating the SISTEM conference.",
+        "callToAction": {
+          "label": "Open UCD School of Computer Science Page",
+          "link": "https://www.ucd.ie/cs/"
+        }
       }
     ]
   },

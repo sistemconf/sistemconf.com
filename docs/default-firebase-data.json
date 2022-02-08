@@ -64,6 +64,12 @@
                     "logoUrl": "../images/companies/accenture.png",
                     "name": "Accenture",
                     "url": "https://www.accenture.com"
+                },
+                {
+                    "order": 3,
+                    "logoUrl": "../images/companies/redhat.png",
+                    "name": "RedHat",
+                    "url": "https://www.redhat.com"
                 }
             ],
             "order": 2,
@@ -76,6 +82,12 @@
                     "logoUrl": "../images/companies/ibm.png",
                     "name": "IBM",
                     "url": "https://www.ibm.com"
+                },
+                {
+                    "order": 1,
+                    "logoUrl": "../images/companies/hubspot.png",
+                    "name": "HubSpot",
+                    "url": "https://www.hubspot.com"
                 }
             ],
             "order": 3,
@@ -97,39 +109,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "startTime": "12:30",
-                    "endTime": "13:00",
-                    "sessions": [
-                        {
-                            "items": [
-                                "004"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "startTime": "15:15",
-                    "endTime": "15:30",
-                    "sessions": [
-                        {
-                            "items": [
-                                "008"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "startTime": "17:00",
-                    "endTime": "17:05",
-                    "sessions": [
-                        {
-                            "items": [
-                                "011"
-                            ]
-                        }
-                    ]
                 }
             ],
             "tracks": [
@@ -147,25 +126,8 @@
     },
     "sessions": {
         "000": {
-            "title": "SISTEM Opening",
-            "description": "A welcome from this years SISTEM conference team!",
-            "language": "English"
-        },
-        "004": {
-            "title": "Lunch Break",
-            "description": "Take a 30 min break for lunch",
-            "language": "English",
-            "icon": "lunch"
-        },
-        "008": {
-            "title": "Break",
-            "description": "Take a 15min Break",
-            "language": "English",
-            "icon": "coffee"
-        },
-        "011": {
-            "title": "Closing Remarks",
-            "description": "The sad moment where we close off SISTEM for another year! ",
+            "title": "Schedule TBC",
+            "description": "Our full schedule will be released soon - keep an eye on our social media in the meantime!",
             "language": "English"
         }
     },
@@ -361,7 +323,7 @@
     ],
     "tickets": [
         {
-            "available": false,
+            "available": true,
             "currency": "€",
             "ends": "Feb 26",
             "name": "Online Standard",
@@ -373,7 +335,7 @@
             "order": "0"
         },
         {
-            "available": false,
+            "available": true,
             "currency": "€",
             "ends": "Feb 26",
             "name": "In-Person Standard",
@@ -385,11 +347,11 @@
             "order": "1"
         },
         {
-            "available": false,
+            "available": true,
             "currency": "€",
             "ends": "Feb 26",
-            "name": "In-Person Premium",
-            "info": "In-Person Premium ticket",
+            "name": "Premium",
+            "info": "Premium ticket",
             "price": 20,
             "soldOut": false,
             "starts": "Feb 9",
