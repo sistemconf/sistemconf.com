@@ -22,7 +22,7 @@
   "position": "Position",
   "country": "Country",
   "time": "Time",
-  "faq": "/data/faq.md",
+  "faq": "",
   "coc": "/data/coc.md",
   "timezoneOffset": "0",
   "footer": {
@@ -70,11 +70,6 @@
           "name": "Partnership Proposition",
           "url": "https://drive.google.com/file/d/1fqVXXXWcOpRFMeG13A7YIhz9h3QXpYm-/view?usp=sharing",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq",
-          "newTab": false
         },
         {
           "name": "COC",
