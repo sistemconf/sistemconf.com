@@ -330,6 +330,30 @@
                     ],
                     "order": 6,
                     "title": "University College Cork"
+                },
+                {
+                    "name": "Trinity DUCSS",
+                    "photo": "/images/team/ducss.png",
+                    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/sistem-2022.appspot.com/o/images%2Fteam%2Fducss.png?alt=media",
+                    "socials": [
+                        {
+                            "icon": "facebook",
+                            "link": "https://www.facebook.com/ducss.ie/",
+                            "name": "Facebook"
+                        },
+                        {
+                            "icon": "twitter",
+                            "link": "https://twitter.com/ducss",
+                            "name": "Twitter"
+                        },
+                        {
+                            "icon": "website",
+                            "link": "https://ducss.ie/",
+                            "name": "Website"
+                        }
+                    ],
+                    "order": 7,
+                    "title": "Trinity College"
                 }
             ],
             "title": "The Team of Societies"
